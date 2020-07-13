@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.content-container{
+  min-height: calc(100vh - 170px);
+}
+
+
+.form-signin {
+  width: 100%;
+  max-width: 470px;
+  padding: 15px;
+  margin: auto;
+}
+
+.container{
+  max-width: 1280px;
+}

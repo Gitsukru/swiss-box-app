@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "img":"https://image.flaticon.com/icons/svg/2922/2922778.svg",
+        "type":"carton",
+        "name":"Small",
+        "surface":3,
+        "volume":2,
+        "price":34
+    },
+    {
+        "id":2,
+        "img":"https://image.flaticon.com/icons/svg/884/884268.svg",
+        "type":"carton",
+        "name":"Medium",
+        "surface":5,
+        "volume":15,
+        "price":38
+    },
+    {
+        "id":3,
+        "img":"https://image.flaticon.com/icons/svg/3140/3140449.svg",
+        "type":"carton",
+        "name":"Large",
+        "surface":15,
+        "volume":45,
+        "price":40
+    },
+    {
+        "id":4,
+        "img":"https://image.flaticon.com/icons/svg/2891/2891023.svg",
+        "type":"carton",
+        "name":"X-Large",
+        "surface":25,
+        "volume":75,
+        "price":44
+    }
+
+]

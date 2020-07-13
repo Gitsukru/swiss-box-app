@@ -2,10 +2,15 @@ import React from 'react'
 
 export default function Abouts() {
     return (
-        <div>
-            Home     Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-            Aperiam, voluptatum autem ea magni fugit sint ullam esse temporibus perspiciatis eveniet. 
-            Soluta, suscipit eius deserunt corrupti numquam quo tempore doloremque vel.
+        <div className="container content-container">
+            <div className="card">
+                <div className="card-body">
+                    <h3>Nous...</h3>
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, 
+                        nostrum ut? Animi sunt quisquam tenetur officia non minima incidunt voluptates adipisci perspiciatis. Quisquam repellat fugit, 
+                    quam molestiae impedit accusantium fuga?
+                </div>
+            </div>
         </div>
     )
 }
